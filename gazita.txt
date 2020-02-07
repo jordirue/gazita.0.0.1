@@ -1,1 +1,3 @@
-Gazita 0.0.1
+    Gazita
+------------------------------------
+    A word is enough to the wise
