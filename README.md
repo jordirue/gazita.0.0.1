@@ -1,2 +1,2 @@
-# gazita.0.0.1
-ReminderTemplates | A word is enough to the wise
+# gazita_0.1
+A word is enough to the wise
